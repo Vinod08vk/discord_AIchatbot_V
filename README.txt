@@ -25,3 +25,5 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 For more info about using intents, see discord.py's related guide, and for general information about them, see the Discord developer documentation on intents.
+
+T=NEW PR
